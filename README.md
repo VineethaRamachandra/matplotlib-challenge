@@ -1,11 +1,10 @@
 # matplotlib-challenge
 
-(a) Pharmaceutical study of anti-cancer medication for ten different drug regimen was conducted.
-From the "Total Number of Mice per regimen" bar chart, it is evident, that major number of mice were treated with drug "Capomulin".  "Propriva" was administered to less number of mice.
-
-(b) Male to Female percentage of mice used for the drug study were close to equal with the ration of male to female being 51% to 49% as seen from the "Distribution of Female vs Male" pie chart.
-
-(c) From the Mouse ID m957 Tumor Vol. in Capomulin Treatment line chart, it is clear that the tumor volume drastically reduced over a period of 40 days from ~45 mm to ~33 mm.
-
-(d) From the Weight vs Average Tumor Volume: "Capomulin regimen" chart, it is clear that average mouse weight and average tumor volume had a positive correlation relationship.
-
+This project contains a main folder called matplotlib-challenge which comprises of following sub-folders and diles.
+matplotlib-challenge
+  \Pymaceuticals - sub folder which contains below files
+    Analysis.tx - Text file that contains my analysis
+    pymaceuticals_starter.jpynb - jupyter notebook source code file. It also contains different charts
+    \Data folder which contains below csv data files.
+      Mouse_metadata.csv
+      Study_results.csv      
